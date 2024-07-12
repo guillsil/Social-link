@@ -46,6 +46,7 @@ body{
 .container p{
     color: #fff;
     margin-top: 2rem;
+    text-align: center;
 }
 
 .container ul{
